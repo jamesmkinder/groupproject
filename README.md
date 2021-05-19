@@ -1,5 +1,5 @@
 # groupproject
 
-A clone of the Coronavirus App.
 
-Project managed in and connected to Jira.
+
+Dev lounge friends, if you are reading this readme, please sign your name to this readme and make a pull request.
